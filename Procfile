@@ -1,0 +1,1 @@
+web: sf setup.sh && streamlit run app.py
